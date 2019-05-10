@@ -76,6 +76,7 @@ Use the stackcollapse programs to fold stack samples into single lines.  The pro
 - `stackcollapse-gdb.pl`: for gdb(1) stacks
 - `stackcollapse-go.pl`: for Golang pprof stacks
 - `stackcollapse-vsprof.pl`: for Microsoft Visual Studio profiles
+- `stackcollapse-git-tr2-event.pl`: for git's [trace2 JSON output](https://github.com/git/git/blob/master/Documentation/technical/api-trace2.txt)
 
 Usage example:
 
